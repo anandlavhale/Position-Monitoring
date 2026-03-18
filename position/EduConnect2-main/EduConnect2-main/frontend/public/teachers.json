@@ -1,0 +1,529 @@
+[
+  {
+      "name": "Dr. S. T. Gandhe",
+      "timetable": {
+        "monday": {
+          "8:15 to 9:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+          "9:15 to 10:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+          "10:15 to 10:30": { "subject": "RECESS", "class": "none", "avail": "unavailable", "loc": "staff room" },
+          "10:30 to 11:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+          "11:30 to 12:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+          "12:30 to 1:15": { "subject": "LUNCH", "class": "none", "avail": "unavailable", "loc": "staff room" },
+          "1:15 to 2:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+          "2:15 to 3:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" }
+        },
+        "tuesday": {
+          "8:15 to 9:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+          "9:15 to 10:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+          "10:15 to 10:30": { "subject": "RECESS", "class": "none", "avail": "unavailable", "loc": "staff room" },
+          "10:30 to 11:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+          "11:30 to 12:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+          "12:30 to 1:15": { "subject": "LUNCH", "class": "none", "avail": "unavailable", "loc": "staff room" },
+          "1:15 to 2:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+          "2:15 to 3:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" }
+        },
+        "wednesday": {
+          "8:15 to 9:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+          "9:15 to 10:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+          "10:15 to 10:30": { "subject": "RECESS", "class": "none", "avail": "unavailable", "loc": "staff room" },
+          "10:30 to 11:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+          "11:30 to 12:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+          "12:30 to 1:15": { "subject": "LUNCH", "class": "none", "avail": "unavailable", "loc": "staff room" },
+          "1:15 to 2:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+          "2:15 to 3:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" }
+        },
+        "thursday": {
+          "8:15 to 9:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+          "9:15 to 10:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+          "10:15 to 10:30": { "subject": "RECESS", "class": "none", "avail": "unavailable", "loc": "staff room" },
+          "10:30 to 11:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+          "11:30 to 12:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+          "12:30 to 1:15": { "subject": "LUNCH", "class": "none", "avail": "unavailable", "loc": "staff room" },
+          "1:15 to 2:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+          "2:15 to 3:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" }
+        },
+        "friday": {
+          "8:15 to 9:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+          "9:15 to 10:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+          "10:15 to 10:30": { "subject": "RECESS", "class": "none", "avail": "unavailable", "loc": "staff room" },
+          "10:30 to 11:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+          "11:30 to 12:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+          "12:30 to 1:15": { "subject": "LUNCH", "class": "none", "avail": "unavailable", "loc": "staff room" },
+          "1:15 to 2:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+          "2:15 to 3:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" }
+        },
+        "saturday": {
+          "8:15 to 9:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+          "9:15 to 10:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+          "10:15 to 10:30": { "subject": "RECESS", "class": "none", "avail": "unavailable", "loc": "staff room" },
+          "10:30 to 11:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+          "11:30 to 12:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+          "12:30 to 1:15": { "subject": "LUNCH", "class": "none", "avail": "unavailable", "loc": "staff room" },
+          "1:15 to 2:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+          "2:15 to 3:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" }
+        }
+      }
+    },
+  {
+    "name": "Dr. Y. Ravinder",
+    "timetable": {
+      "monday": {
+        "8:15 to 9:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "9:15 to 10:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "10:15 to 10:30": { "subject": "RECESS", "class": "none", "avail": "unavailable", "loc": "staff room" },
+        "10:30 to 11:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "11:30 to 12:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "12:30 to 1:15": { "subject": "LUNCH", "class": "none", "avail": "unavailable", "loc": "staff room" },
+        "1:15 to 2:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "2:15 to 3:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" }
+      },
+      "tuesday": {
+        "8:15 to 9:15": { "subject": "AMWC", "class": "MTech", "avail": "unavailable", "loc": "A2-202" },
+        "9:15 to 10:15": { "subject": "AMWC", "class": "MTech", "avail": "unavailable", "loc": "A2-202" },
+        "10:15 to 10:30": { "subject": "RECESS", "class": "none", "avail": "unavailable", "loc": "staff room" },
+        "10:30 to 11:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "11:30 to 12:30": { "subject": "CN", "class": "TE V", "avail": "unavailable", "loc": "A3-207" },
+        "12:30 to 1:15": { "subject": "LUNCH", "class": "none", "avail": "unavailable", "loc": "staff room" },
+        "1:15 to 2:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "2:15 to 3:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" }
+      },
+      "wednesday": {
+        "8:15 to 9:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "9:15 to 10:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "10:15 to 10:30": { "subject": "RECESS", "class": "none", "avail": "unavailable", "loc": "staff room" },
+        "10:30 to 11:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "11:30 to 12:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "12:30 to 1:15": { "subject": "LUNCH", "class": "none", "avail": "unavailable", "loc": "staff room" },
+        "1:15 to 2:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "2:15 to 3:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" }
+      },
+      "thursday": {
+        "8:15 to 9:15": { "subject": "AMWC", "class": "MTech", "avail": "unavailable", "loc": "A2-202" },
+        "9:15 to 10:15": { "subject": "AMWC", "class": "MTech", "avail": "unavailable", "loc": "A2-202" },
+        "10:15 to 10:30": { "subject": "RECESS", "class": "none", "avail": "unavailable", "loc": "staff room" },
+        "10:30 to 11:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "11:30 to 12:30": { "subject": "CN", "class": "TE V", "avail": "unavailable", "loc": "A3-207" },
+        "12:30 to 1:15": { "subject": "LUNCH", "class": "none", "avail": "unavailable", "loc": "staff room" },
+        "1:15 to 2:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "2:15 to 3:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" }
+      },
+      "friday": {
+        "8:15 to 9:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "9:15 to 10:15": { "subject": "CN", "class": "TE V", "avail": "unavailable", "loc": "A3-207" },
+        "10:15 to 10:30": { "subject": "RECESS", "class": "none", "avail": "unavailable", "loc": "staff room" },
+        "10:30 to 11:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "11:30 to 12:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "12:30 to 1:15": { "subject": "LUNCH", "class": "none", "avail": "unavailable", "loc": "staff room" },
+        "1:15 to 2:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "2:15 to 3:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" }
+      },
+      "saturday": {
+        "8:15 to 9:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "9:15 to 10:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "10:15 to 10:30": { "subject": "RECESS", "class": "none", "avail": "unavailable", "loc": "staff room" },
+        "10:30 to 11:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "11:30 to 12:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "12:30 to 1:15": { "subject": "LUNCH", "class": "none", "avail": "unavailable", "loc": "staff room" },
+        "1:15 to 2:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "2:15 to 3:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" }
+      }
+    }
+  },
+  {
+  
+    "name": "Dr. G. S. Mundada",
+    "timetable": {
+      "monday": {
+        "8:15 to 9:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "9:15 to 10:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "10:15 to 10:30": { "subject": "RECESS", "class": "none", "avail": "unavailable", "loc": "staff room" },
+        "10:30 to 11:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "11:30 to 12:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "12:30 to 1:15": { "subject": "LUNCH", "class": "none", "avail": "unavailable", "loc": "staff room" },
+        "1:15 to 2:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "2:15 to 3:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" }
+      },
+      "tuesday": {
+        "8:15 to 9:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "9:15 to 10:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "10:15 to 10:30": { "subject": "RECESS", "class": "none", "avail": "unavailable", "loc": "staff room" },
+        "10:30 to 11:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "11:30 to 12:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "12:30 to 1:15": { "subject": "LUNCH", "class": "none", "avail": "unavailable", "loc": "staff room" },
+        "1:15 to 2:15": { "subject": "PBL1", "class": "F8", "avail": "unavailable", "loc": "A3-102" },
+        "2:15 to 3:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" }
+      },
+      "wednesday": {
+        "8:15 to 9:15": { "subject": "PM", "class": "TE V", "avail": "unavailable", "loc": "A3-207" },
+        "9:15 to 10:15": { "subject": "PM", "class": "TE V", "avail": "unavailable", "loc": "A3-207" },
+        "10:15 to 10:30": { "subject": "RECESS", "class": "none", "avail": "unavailable", "loc": "staff room" },
+        "10:30 to 11:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "11:30 to 12:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "12:30 to 1:15": { "subject": "LUNCH", "class": "none", "avail": "unavailable", "loc": "staff room" },
+        "1:15 to 2:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "2:15 to 3:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" }
+      },
+      "thursday": {
+        "8:15 to 9:15": { "subject": "PM", "class": "TE V", "avail": "unavailable", "loc": "A3-207" },
+        "9:15 to 10:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "10:15 to 10:30": { "subject": "RECESS", "class": "none", "avail": "unavailable", "loc": "staff room" },
+        "10:30 to 11:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "11:30 to 12:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "12:30 to 1:15": { "subject": "LUNCH", "class": "none", "avail": "unavailable", "loc": "staff room" },
+        "1:15 to 2:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "2:15 to 3:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" }
+      },
+      "friday": {
+        "8:15 to 9:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "9:15 to 10:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "10:15 to 10:30": { "subject": "RECESS", "class": "none", "avail": "unavailable", "loc": "staff room" },
+        "10:30 to 11:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "11:30 to 12:30": { "subject": "PM", "class": "TE V", "avail": "unavailable", "loc": "A3-010" },
+        "12:30 to 1:15": { "subject": "LUNCH", "class": "none", "avail": "unavailable", "loc": "staff room" },
+        "1:15 to 2:15": { "subject": "PBL2", "class": "F8", "avail": "unavailable", "loc": "A3-203" },
+        "2:15 to 3:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" }
+      },
+      "saturday": {
+        "8:15 to 9:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "9:15 to 10:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "10:15 to 10:30": { "subject": "RECESS", "class": "none", "avail": "unavailable", "loc": "staff room" },
+        "10:30 to 11:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "11:30 to 12:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "12:30 to 1:15": { "subject": "LUNCH", "class": "none", "avail": "unavailable", "loc": "staff room" },
+        "1:15 to 2:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "2:15 to 3:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" }
+      }
+    }
+  },
+  
+  {
+    "name": "Dr. S.S. Narkhede",
+    "timetable": {
+      "monday": {
+        "8:15 to 9:15": { "subject": "CS", "class": "SE VIII", "avail": "unavailable", "loc": "A3-107" },
+        "9:15 to 10:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "10:15 to 10:30": { "subject": "RECESS", "class": "none", "avail": "unavailable", "loc": "staff room" },
+        "10:30 to 11:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "11:30 to 12:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "12:30 to 1:15": { "subject": "LUNCH", "class": "none", "avail": "unavailable", "loc": "staff room" },
+        "1:15 to 2:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "2:15 to 3:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" }
+      },
+      "tuesday": {
+        "8:15 to 9:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "9:15 to 10:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "10:15 to 10:30": { "subject": "RECESS", "class": "none", "avail": "unavailable", "loc": "staff room" },
+        "10:30 to 11:30": { "subject": "CS", "class": "SE VIII", "avail": "unavailable", "loc": "A3-010" },
+        "11:30 to 12:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "12:30 to 1:15": { "subject": "LUNCH", "class": "none", "avail": "unavailable", "loc": "staff room" },
+        "1:15 to 2:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "2:15 to 3:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" }
+      },
+      "wednesday": {
+        "8:15 to 9:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "9:15 to 10:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "10:15 to 10:30": { "subject": "RECESS", "class": "none", "avail": "unavailable", "loc": "staff room" },
+        "10:30 to 11:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "11:30 to 12:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "12:30 to 1:15": { "subject": "LUNCH", "class": "none", "avail": "unavailable", "loc": "staff room" },
+        "1:15 to 2:15": { "subject": "MP2", "class": "M7", "avail": "unavailable", "loc": "A3-101" },
+        "2:15 to 3:15": { "subject": "MP2", "class": "M7", "avail": "unavailable", "loc": "A3-101" }
+      },
+      "thursday": {
+        "8:15 to 9:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "9:15 to 10:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "10:15 to 10:30": { "subject": "RECESS", "class": "none", "avail": "unavailable", "loc": "staff room" },
+        "10:30 to 11:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "11:30 to 12:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "12:30 to 1:15": { "subject": "LUNCH", "class": "none", "avail": "unavailable", "loc": "staff room" },
+        "1:15 to 2:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "2:15 to 3:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" }
+      },
+      "friday": {
+        "8:15 to 9:15": { "subject": "CS", "class": "SE VIII", "avail": "unavailable", "loc": "A3-107" },
+        "9:15 to 10:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "10:15 to 10:30": { "subject": "RECESS", "class": "none", "avail": "unavailable", "loc": "staff room" },
+        "10:30 to 11:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "11:30 to 12:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "12:30 to 1:15": { "subject": "LUNCH", "class": "none", "avail": "unavailable", "loc": "staff room" },
+        "1:15 to 2:15": { "subject": "MP1", "class": "M7", "avail": "unavailable", "loc": "A3-104" },
+        "2:15 to 3:15": { "subject": "MP1", "class": "M7", "avail": "unavailable", "loc": "A3-104" }
+      },
+      "saturday": {
+        "8:15 to 9:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "9:15 to 10:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "10:15 to 10:30": { "subject": "RECESS", "class": "none", "avail": "unavailable", "loc": "staff room" },
+        "10:30 to 11:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "11:30 to 12:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "12:30 to 1:15": { "subject": "LUNCH", "class": "none", "avail": "unavailable", "loc": "staff room" },
+        "1:15 to 2:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "2:15 to 3:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" }
+      }
+    }
+  },
+  {
+      "name": "Dr. R. Sreemathy",
+      "timetable": {
+        "monday": {
+          "10:30 to 11:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+          "11:30 to 12:30": { "subject": "SPWC", "class": "MTech", "avail": "unavailable", "loc": "A3-109" },
+          "12:30 to 1:15": { "subject": "LUNCH", "class": "none", "avail": "unavailable", "loc": "staff room" },
+          "1:15 to 2:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+          "2:15 to 3:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+          "3:15 to 3:30": { "subject": "RECESS", "class": "none", "avail": "unavailable", "loc": "staff room" },
+          "3:30 to 4:30": { "subject": "AIML-SCDL", "class": "BE Hons", "avail": "unavailable", "loc": "A3-107" },
+          "4:30 to 5:30": { "subject": "AIML-SCDL", "class": "BE Hons", "avail": "unavailable", "loc": "A3-107" }
+        },
+        "tuesday": {
+          "10:30 to 11:30": { "subject": "SPWC", "class": "MTech", "avail": "unavailable", "loc": "A3-007" },
+          "11:30 to 12:30": { "subject": "SPWC", "class": "MTech", "avail": "unavailable", "loc": "A3-007" },
+          "12:30 to 1:15": { "subject": "LUNCH", "class": "none", "avail": "unavailable", "loc": "staff room" },
+          "1:15 to 2:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+          "2:15 to 3:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+          "3:15 to 3:30": { "subject": "RECESS", "class": "none", "avail": "unavailable", "loc": "staff room" },
+          "3:30 to 4:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+          "4:30 to 5:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" }
+        },
+        "wednesday": {
+          "10:30 to 11:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+          "11:30 to 12:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+          "12:30 to 1:15": { "subject": "LUNCH", "class": "none", "avail": "unavailable", "loc": "staff room" },
+          "1:15 to 2:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+          "2:15 to 3:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+          "3:15 to 3:30": { "subject": "RECESS", "class": "none", "avail": "unavailable", "loc": "staff room" },
+          "3:30 to 4:30": { "subject": "AIML-SCDL", "class": "BE Hons", "avail": "unavailable", "loc": "A3-107" },
+          "4:30 to 5:30": { "subject": "AIML-SCDL", "class": "BE Hons", "avail": "unavailable", "loc": "A3-007" }
+        },
+        "thursday": {
+          "10:30 to 11:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+          "11:30 to 12:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+          "12:30 to 1:15": { "subject": "LUNCH", "class": "none", "avail": "unavailable", "loc": "staff room" },
+          "1:15 to 2:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+          "2:15 to 3:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+          "3:15 to 3:30": { "subject": "RECESS", "class": "none", "avail": "unavailable", "loc": "staff room" },
+          "3:30 to 4:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+          "4:30 to 5:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" }
+        },
+        "friday": {
+          "10:30 to 11:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+          "11:30 to 12:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+          "12:30 to 1:15": { "subject": "LUNCH", "class": "none", "avail": "unavailable", "loc": "staff room" },
+          "1:15 to 2:15": { "subject": "TUT SPWC", "class": "MTech", "avail": "unavailable", "loc": "A3-007" },
+          "2:15 to 3:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+          "3:15 to 3:30": { "subject": "RECESS", "class": "none", "avail": "unavailable", "loc": "staff room" },
+          "3:30 to 4:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+          "4:30 to 5:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" }
+        },
+        "saturday": {
+          "10:30 to 11:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+          "11:30 to 12:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+          "12:30 to 1:15": { "subject": "LUNCH", "class": "none", "avail": "unavailable", "loc": "staff room" },
+          "1:15 to 2:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+          "2:15 to 3:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+          "3:15 to 3:30": { "subject": "RECESS", "class": "none", "avail": "unavailable", "loc": "staff room" },
+          "3:30 to 4:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+          "4:30 to 5:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" }
+        }
+      }
+  },
+
+  {
+    "name": "Dr. M. V. Munot",
+    "timetable": {
+      "monday": {
+        "8:15 to 9:15": { "subject": "DCKT", "class": "A3 108", "avail": "available", "loc": "staff room" },
+        "9:15 to 10:15": { "subject": "DCKT", "class": "A3 107", "avail": "available", "loc": "Auditorium" },
+        "10:15 to 10:30": { "subject": "RECESS", "class": "none", "avail": "unavailable", "loc": "staff room" },
+        "10:30 to 11:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "11:30 to 12:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "12:30 to 1:15": { "subject": "LUNCH", "class": "none", "avail": "unavailable", "loc": "staff room" },
+        "1:15 to 2:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "2:15 to 3:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" }
+      },
+      "tuesday": {
+        "8:15 to 9:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "9:15 to 10:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "10:15 to 10:30": { "subject": "RECESS", "class": "none", "avail": "unavailable", "loc": "staff room" },
+        "10:30 to 11:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "11:30 to 12:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "12:30 to 1:15": { "subject": "LUNCH", "class": "none", "avail": "unavailable", "loc": "staff room" },
+        "1:15 to 2:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "2:15 to 3:15": { "subject": "AIML-AI", "class": "TE Hons", "avail": "unavailable", "loc": "A3-010" }
+      },
+      "wednesday": {
+        "8:15 to 9:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "9:15 to 10:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "10:15 to 10:30": { "subject": "RECESS", "class": "none", "avail": "unavailable", "loc": "staff room" },
+        "10:30 to 11:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "11:30 to 12:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "12:30 to 1:15": { "subject": "LUNCH", "class": "none", "avail": "unavailable", "loc": "staff room" },
+        "1:15 to 2:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "2:15 to 3:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" }
+      },
+      "thursday": {
+        "8:15 to 9:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "9:15 to 10:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "10:15 to 10:30": { "subject": "RECESS", "class": "none", "avail": "unavailable", "loc": "staff room" },
+        "10:30 to 11:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "11:30 to 12:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "12:30 to 1:15": { "subject": "LUNCH", "class": "none", "avail": "unavailable", "loc": "staff room" },
+        "1:15 to 2:15": { "subject": "AIML-AI", "class": "TE Hons", "avail": "unavailable", "loc": "A3-005" },
+        "2:15 to 3:15": { "subject": "AIML-AI", "class": "TE Hons", "avail": "unavailable", "loc": "A3-005" }
+      },
+      "friday": {
+        "8:15 to 9:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "9:15 to 10:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "10:15 to 10:30": { "subject": "RECESS", "class": "none", "avail": "unavailable", "loc": "staff room" },
+        "10:30 to 11:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "11:30 to 12:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "12:30 to 1:15": { "subject": "LUNCH", "class": "none", "avail": "unavailable", "loc": "staff room" },
+        "1:15 to 2:15": { "subject": "AIML-AI", "class": "TE Hons", "avail": "unavailable", "loc": "A3-108" },
+        "2:15 to 3:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" }
+      },
+      "saturday": {
+        "8:15 to 9:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "9:15 to 10:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "10:15 to 10:30": { "subject": "RECESS", "class": "none", "avail": "unavailable", "loc": "staff room" },
+        "10:30 to 11:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "11:30 to 12:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "12:30 to 1:15": { "subject": "LUNCH", "class": "none", "avail": "unavailable", "loc": "staff room" },
+        "1:15 to 2:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "2:15 to 3:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" }
+      }
+    }
+  },
+  
+  {
+      
+    "name": "Dr. R. C. Jaiswal",
+    "timetable": {
+      "monday": {
+        "10:30 to 11:30": { "subject": "NS", "class": "TE V", "avail": "unavailable", "loc": "A3-207" },
+        "11:30 to 12:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "12:30 to 1:15": { "subject": "LUNCH", "class": "none", "avail": "unavailable", "loc": "staff room" },
+        "1:15 to 2:15": { "subject": "MP1", "class": "L7", "avail": "unavailable", "loc": "A3-104" },
+        "2:15 to 3:15": { "subject": "MP1", "class": "L7", "avail": "unavailable", "loc": "A3-104" },
+        "3:15 to 3:30": { "subject": "RECESS", "class": "none", "avail": "unavailable", "loc": "staff room" },
+        "3:30 to 4:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "4:30 to 5:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" }
+      },
+      "tuesday": {
+        "10:30 to 11:30": { "subject": "N6 NS", "avail": "unavailable", "loc": "A3-204" },
+        "11:30 to 12:30": { "subject": "N6 NS", "avail": "unavailable", "loc": "A3-204" },
+        "12:30 to 1:15": { "subject": "LUNCH", "class": "none", "avail": "unavailable", "loc": "staff room" },
+        "1:15 to 2:15": { "subject": "NS", "class": "TE V", "avail": "unavailable", "loc": "A3-208" },
+        "2:15 to 3:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "3:15 to 3:30": { "subject": "RECESS", "class": "none", "avail": "unavailable", "loc": "staff room" },
+        "3:30 to 4:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "4:30 to 5:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" }
+      },
+      "wednesday": {
+        "10:30 to 11:30": { "subject": "NS", "class": "M6", "avail": "unavailable", "loc": "A3-204" },
+        "11:30 to 12:30": { "subject": "NS", "class": "M6", "avail": "unavailable", "loc": "A3-204" },
+        "12:30 to 1:15": { "subject": "LUNCH", "class": "none", "avail": "unavailable", "loc": "staff room" },
+        "1:15 to 2:15": { "subject": "NS", "class": "TE V", "avail": "unavailable", "loc": "A3-207" },
+        "2:15 to 3:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "3:15 to 3:30": { "subject": "RECESS", "class": "none", "avail": "unavailable", "loc": "staff room" },
+        "3:30 to 4:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "4:30 to 5:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" }
+      },
+      "thursday": {
+        "10:30 to 11:30": { "subject": "NS", "class": "L6", "avail": "unavailable", "loc": "A3-204" },
+        "11:30 to 12:30": { "subject": "NS", "class": "L6", "avail": "unavailable", "loc": "A3-204" },
+        "12:30 to 1:15": { "subject": "LUNCH", "class": "none", "avail": "unavailable", "loc": "staff room" },
+        "1:15 to 2:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "2:15 to 3:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "3:15 to 3:30": { "subject": "RECESS", "class": "none", "avail": "unavailable", "loc": "staff room" },
+        "3:30 to 4:30": { "subject": "MP2", "class": "L7", "avail": "unavailable", "loc": "A3-101" },
+        "4:30 to 5:30": { "subject": "MP2", "class": "L7", "avail": "unavailable", "loc": "A3-101" }
+      },
+      "friday": {
+        "10:30 to 11:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "11:30 to 12:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "12:30 to 1:15": { "subject": "LUNCH", "class": "none", "avail": "unavailable", "loc": "staff room" },
+        "1:15 to 2:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "2:15 to 3:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "3:15 to 3:30": { "subject": "RECESS", "class": "none", "avail": "unavailable", "loc": "staff room" },
+        "3:30 to 4:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "4:30 to 5:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" }
+      },
+      "saturday": {
+        "10:30 to 11:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "11:30 to 12:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "12:30 to 1:15": { "subject": "LUNCH", "class": "none", "avail": "unavailable", "loc": "staff room" },
+        "1:15 to 2:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "2:15 to 3:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "3:15 to 3:30": { "subject": "RECESS", "class": "none", "avail": "unavailable", "loc": "staff room" },
+        "3:30 to 4:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "4:30 to 5:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" }
+      }
+    }
+  },
+  {
+    "name": "Dr. P. S. Varade",
+    "timetable": {
+      "monday": {
+        "8:15 to 9:15": { "subject": "PCS", "class": "F6", "avail": "unavailable", "loc": "A3-201" },
+        "9:15 to 10:15": { "subject": "PCS", "class": "F6", "avail": "unavailable", "loc": "A3-201" },
+        "10:15 to 10:30": { "subject": "RECESS", "class": "none", "avail": "unavailable", "loc": "staff room" },
+        "10:30 to 11:30": { "subject": "ITC", "class": "MTech", "avail": "unavailable", "loc": "A3-109" },
+        "11:30 to 12:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "12:30 to 1:15": { "subject": "LUNCH", "class": "none", "avail": "unavailable", "loc": "staff room" },
+        "1:15 to 2:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "2:15 to 3:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" }
+      },
+      "tuesday": {
+        "8:15 to 9:15": { "subject": "PCS", "class": "E6", "avail": "unavailable", "loc": "A3-201" },
+        "9:15 to 10:15": { "subject": "PCS", "class": "E6", "avail": "unavailable", "loc": "A3-201" },
+        "10:15 to 10:30": { "subject": "RECESS", "class": "none", "avail": "unavailable", "loc": "staff room" },
+        "10:30 to 11:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "11:30 to 12:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "12:30 to 1:15": { "subject": "LUNCH", "class": "none", "avail": "unavailable", "loc": "staff room" },
+        "1:15 to 2:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "2:15 to 3:15": { "subject": "PCS", "class": "SE VI", "avail": "unavailable", "loc": "A3-108" }
+      },
+      "wednesday": {
+        "8:15 to 9:15": { "subject": "ITC", "class": "MTech", "avail": "unavailable", "loc": "A2-202" },
+        "9:15 to 10:15": { "subject": "ITC", "class": "MTech", "avail": "unavailable", "loc": "A2-202" },
+        "10:15 to 10:30": { "subject": "RECESS", "class": "none", "avail": "unavailable", "loc": "staff room" },
+        "10:30 to 11:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "11:30 to 12:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "12:30 to 1:15": { "subject": "LUNCH", "class": "none", "avail": "unavailable", "loc": "staff room" },
+        "1:15 to 2:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "2:15 to 3:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" }
+      },
+      "thursday": {
+        "8:15 to 9:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "9:15 to 10:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "10:15 to 10:30": { "subject": "RECESS", "class": "none", "avail": "unavailable", "loc": "staff room" },
+        "10:30 to 11:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "11:30 to 12:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "12:30 to 1:15": { "subject": "LUNCH", "class": "none", "avail": "unavailable", "loc": "staff room" },
+        "1:15 to 2:15": { "subject": "PCS", "class": "SE VI", "avail": "unavailable", "loc": "A3-108" },
+        "2:15 to 3:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" }
+      },
+      "friday": {
+        "8:15 to 9:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "9:15 to 10:15": { "subject": "TUT ITC", "class": "MTech", "avail": "unavailable", "loc": "A2-202" },
+        "10:15 to 10:30": { "subject": "RECESS", "class": "none", "avail": "unavailable", "loc": "staff room" },
+        "10:30 to 11:30": { "subject": "PCS", "class": "SE VI", "avail": "unavailable", "loc": "A3-108" },
+        "11:30 to 12:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "12:30 to 1:15": { "subject": "LUNCH", "class": "none", "avail": "unavailable", "loc": "staff room" },
+        "1:15 to 2:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "2:15 to 3:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" }
+      },
+      "saturday": {
+        "8:15 to 9:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "9:15 to 10:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "10:15 to 10:30": { "subject": "RECESS", "class": "none", "avail": "unavailable", "loc": "staff room" },
+        "10:30 to 11:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "11:30 to 12:30": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "12:30 to 1:15": { "subject": "LUNCH", "class": "none", "avail": "unavailable", "loc": "staff room" },
+        "1:15 to 2:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" },
+        "2:15 to 3:15": { "subject": "none", "class": "none", "avail": "available", "loc": "staff room" }
+      }
+    }
+  }
+
+
+]
