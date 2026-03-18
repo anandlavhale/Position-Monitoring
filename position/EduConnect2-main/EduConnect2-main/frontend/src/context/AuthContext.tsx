@@ -38,6 +38,7 @@ export const AuthProvider: React.FC<{ children: React.ReactNode }> = ({ children
 
   const login = (user: Teacher | Student | null, userRole: UserRole) => {
     setUser(user);
+    setUser=null;
     setRole(userRole);
     setIsAuthenticated(true);
     
