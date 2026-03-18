@@ -9,8 +9,6 @@ interface AuthContextType {
   isAuthenticated: boolean;
 }
 
-pawan=god
-
 const AuthContext = createContext<AuthContextType>({
   user: null,
   role: null,
